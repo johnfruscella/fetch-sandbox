@@ -1,0 +1,1 @@
+An API created to learn about fetch method
